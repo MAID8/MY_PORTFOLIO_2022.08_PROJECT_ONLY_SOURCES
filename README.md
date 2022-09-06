@@ -1,1 +1,2 @@
 # MY_PORTFOLIO_2022.08_PROJECT_ONLY_SOURCES
+2022년 08월 포트폴리오 사이트 01 전용 소스 리포지토리 입니다.
